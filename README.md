@@ -2,7 +2,10 @@
 
 - 👀 I’m interested in latest tech 
 - 🌱 I’m currently learning TypeScript
-- 💞️ I’m looking to collaborate on React or Python projects
+- 👨‍💻 I’m looking to collaborate on React or Python projects
+- 🎧 I enjoy listening to lo-fi music while coding
+- 📚 Published two peer-reviewed articles on AI and Blockchain technology and cybersecurity
+- ✈️ I'm easy-going and love travelling
 
 
 ### Find me elsewhere 🌎
