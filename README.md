@@ -12,6 +12,8 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayman-io/)](https://www.linkedin.com/in/ayman-io/)  
 
+
+[Articles on Medium ] (https://aymanx.medium.com/how-to-build-your-own-restful-api-node-js-mongodb-588b010a37ad)
 <!---
 aymanxdev/aymanxdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
