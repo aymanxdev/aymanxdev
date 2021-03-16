@@ -10,6 +10,8 @@
 - 🙋‍♂️ Currently looking for a full-time job in London
 
 
-### Find me elsewhere 🌎 Contact me on LinkedIn
+### Find me elsewhere 🌎 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayman-io/)](https://www.linkedin.com/in/ayman-io/)  
+
+Check out my articles on [Medium](https://aymanx.medium.com/)
