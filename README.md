@@ -1,14 +1,25 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm  [Ayman A.](https://aymanx.io/)
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi there, I'm  [Ayman A.](https://aymanx.io/)
+I'm full-stack web developer and recent M.S graduate. I'm currently looking to contribute my skills to a team where I can grow and build amazing applications. 
 
-- 👀 I’m interested in building cool software and solving complex problems
-- 🎓 Recent M.S graduate 
-- 🌱 I’m currently learning TypeScript 
-- 👨‍💻 I’m looking to collaborate on React or Python projects 
-- 🎧 I enjoy listening to music while coding or working out.
-- 📚 Published two peer-reviewed articles on AI and Blockchain technology and cybersecurity
-- ✈️ I'm easy-going and love travelling
-- 🐈  🐶  🐹  🐿  I Adore pets!
-- 🙋‍♂️ Currently looking for a full-time job or an internship in London
+## My Values
+🧠 Thoughtful & Inclusive Development
+💜 Authentic Expression
+💡 Mindset of Learning & Curiosity
+🙌 Teamwork & Communication
+
+## Hobbies 
+🏊‍♂️  Swimming 
+☕️ Coffee and Tea Enthusiast
+📖 Reading & 🎵 Music 
+✈️ Love Travelling 
+
+## More about me
+
+🌱 I’m currently learning TypeScript 
+👨‍💻 I’m looking to collaborate on React, Python or any interesting projects 
+📚 Published two peer-reviewed articles on AI and Blockchain technology and cybersecurity
+🐈  🐶  🐹  🐿  I love pets!
+- 🙋‍♂️ Currently looking for a full-time job in London
 
  
 
