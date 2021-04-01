@@ -2,24 +2,24 @@
 I'm full-stack web developer and recent M.S graduate. I'm currently looking to contribute my skills to a team where I can grow and build amazing applications. 
 
 ## My Values
-🧠 Thoughtful & Inclusive Development
-💜 Authentic Expression
-💡 Mindset of Learning & Curiosity
-🙌 Teamwork & Communication
+🧠 Thoughtful & Inclusive Development   
+💜 Authentic Expression   
+💡 Mindset of Learning & Curiosity   
+🙌 Teamwork & Communication 
 
 ## Hobbies 
-🏊‍♂️  Swimming 
-☕️ Coffee and Tea Enthusiast
-📖 Reading & 🎵 Music 
-✈️ Love Travelling 
+🏊‍♂️  Swimming   
+☕️ Coffee and Tea Enthusiast   
+📖 Reading & 🎵 Music      
+✈️ Love Travelling      
 
 ## More about me
 
-🌱 I’m currently learning TypeScript 
-👨‍💻 I’m looking to collaborate on React, Python or any interesting projects 
-📚 Published two peer-reviewed articles on AI and Blockchain technology and cybersecurity
-🐈  🐶  🐹  🐿  I love pets!
-- 🙋‍♂️ Currently looking for a full-time job in London
+🌱 I’m currently learning TypeScript & Nextjs        
+👨‍💻 I’m looking to collaborate on React, Python or any interesting projects   
+📚 Published two peer-reviewed articles on AI and Blockchain technology and cybersecurity  
+🐈  🐶  🐹  🐿  I love pets!   
+🙋‍♂️ Currently looking for a full-time job in London   
 
  
 
