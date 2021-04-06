@@ -19,8 +19,10 @@ I'm full-stack web developer and recent M.S graduate. I'm currently looking to c
 👨‍💻 I’m looking to collaborate on React, Python or any interesting projects   
 📚 Published two peer-reviewed articles on AI and Blockchain technology and cybersecurity  
 🐈  🐶  🐹  🐿  I love pets!   
-🙋‍♂️ Currently looking for a full-time job in London   
+🙋‍♂️ Currently looking for a full-time job in London
 
+
+🔧 Rebuilding my portfolio with Gatsby.    
  
 
 Check out my articles on [Medium](https://aymanx.medium.com/)
