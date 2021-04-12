@@ -15,7 +15,7 @@ I'm full-stack web developer and recent M.S graduate. I'm currently looking to c
 
 ## More about me
 
-🌱 I’m currently learning TypeScript & Nextjs        
+🌱 I’m currently learning TypeScript, Gatsby and GraphQL       
 👨‍💻 I’m looking to collaborate on React, Python or any interesting projects   
 📚 Published two peer-reviewed articles on AI and Blockchain technology and cybersecurity  
 🐈  🐶  🐹  🐿  I love pets!   
