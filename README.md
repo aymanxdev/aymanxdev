@@ -23,7 +23,7 @@ I'm a software engineer and recent M.S graduate. I'm currently looking to contri
 🌏 Brainstorming application ideas for social good and sustainability 
 
 
-🔧 Rebuilding my portfolio with Gatsby.
+🔧 Rebuilding my portfolio with Gatsby. >> check out my portfolio [here](https://aymanx.io/)
 
  
 
