@@ -15,7 +15,7 @@ I'm a software engineer and recent M.S graduate. I'm currently looking to contri
 
 ## More about me
 
-🌱 I’m currently learning TypeScript, Gatsby and GraphQL       
+🌱 I’m currently learning TypeScript, GraphQL and brushing up on my algorithm & Data structure skills     
 👨‍💻 I’m looking to collaborate on React, Python or any interesting projects   
 📚 Published two peer-reviewed articles on AI and Blockchain technology and cybersecurity  
 🐈  🐶  🐹  🐿  I love pets!   
