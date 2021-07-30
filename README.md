@@ -24,7 +24,8 @@ I'm mostly interested in creating Python and React applications.
 🌏 Brainstorming application ideas for social good and sustainability 
 
 
-🔧 Rebuilding my portfolio with Gatsby. >> check out my portfolio [here](https://aymanx.io/)
+🔧 Rebuilding my portfolio with Gatsby and Sanity. >> check out my new portfolio [here](https://aymanx.io/)
+
 
  
 
