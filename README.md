@@ -27,9 +27,11 @@ I'm mostly interested in creating Python and React applications.
 🔧 Rebuilding my portfolio with Gatsby and Sanity. >> check out my new portfolio [here](https://aymanx.io/)
 
 
+
  
 
 Check out my articles on [Medium](https://aymanx.medium.com/)
+I'm just starting to write on Medium, if you like what I publish, and would liket to see me write about something specific, please DM me on Twitter.
 
 ### Find me elsewhere 🌎 
 
