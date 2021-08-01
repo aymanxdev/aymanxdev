@@ -20,8 +20,8 @@ I'm mostly interested in creating Python and React applications.
 👨‍💻 I’m looking to collaborate on React, Python or any interesting projects   
 📚 Published two peer-reviewed articles on AI and Blockchain technology and cybersecurity  
 🐈  🐶  🐹  🐿  I love pets!   
-🙋‍♂️ Currently looking for a full-time job in London    
-🌏 Brainstorming application ideas for social good and sustainability 
+🙋‍♂️ Currently looking for a full-time job in London
+🌏 Brainstorming web application ideas for social good and sustainability ( DM me if you wanna collaborate)
 
 
 🔧 Rebuilding my portfolio with Gatsby and Sanity. >> check out my new portfolio [here](https://aymanx.io/)
