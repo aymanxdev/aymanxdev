@@ -1,6 +1,6 @@
 ### Hi there, I'm  [Ayman A.](https://aymanx.io/)  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 I'm a software engineer and recent M.S graduate. I'm currently looking to contribute my skills to a team where I can grow and build amazing applications.
-I'm mostly interested in creating Python and React applications. 
+I'm mostly interested in creating Python and React applications - not afraid to explore 
 
 ## My Values
 🧠 Thoughtful & Inclusive Development   
@@ -16,9 +16,9 @@ I'm mostly interested in creating Python and React applications.
 
 ## More about me
 
-🌱 I’m currently learning TypeScript, GraphQL.    
+🌱 I’m currently learning TypeScript and GraphQL.    
 👨‍💻 I’m looking to collaborate on React, Python or any interesting projects   
-📚 Published two peer-reviewed articles on AI and Blockchain technology and cybersecurity  
+📚 Published two peer-reviewed articles on AI and Blockchain technology and cryptography  
 🐈  🐶  🐹  🐿  I love pets!   
 🙋‍♂️ Currently looking for a full-time job in London
 🌏 Brainstorming web application ideas for social good and sustainability ( DM me if you wanna collaborate)
