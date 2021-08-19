@@ -25,7 +25,7 @@ I'm mostly interested in creating Python and React applications - not afraid to 
 
 
 🔧 My portfolio is now built with Gatsby and Sanity. >> check out my new portfolio [here](https://aymanx.io/)
-🔁 Exploring DevOps 
+🔁 Exploring Docker
 
 
 
