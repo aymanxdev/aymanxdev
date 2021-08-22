@@ -24,14 +24,15 @@ I'm mostly interested in creating Python and React applications - not afraid to 
 🌏 Brainstorming web application ideas for social good and sustainability ( DM me if you wanna collaborate)
 
 
-🔧 My portfolio is now built with Gatsby and Sanity. >> check out my new portfolio [here](https://aymanx.io/)
+🔧 My portfolio is now built with Gatsby and Sanity. >> check out my new portfolio [here](https://aymanx.io/).    
 🔁 Exploring Docker
 
 
 
- 
 
-Check out my articles on [Medium](https://aymanx.medium.com/)
+Check out my articles on [Medium](https://aymanx.medium.com/)  
+[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://aymanx.medium.com/)   
+
 I'm just starting to write on Medium, if you like what I publish, and would liket to see me write about something specific, please DM me on Twitter.
 
 ### Find me elsewhere 🌎 
