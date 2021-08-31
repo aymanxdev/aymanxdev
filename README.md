@@ -1,6 +1,6 @@
 ### Hi there, I'm  [Ayman A.](https://aymanx.io/)  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 I'm a software engineer and recent M.S graduate. I'm currently looking to contribute my skills to a team where I can grow and build amazing applications.
-I'm mostly interested in creating Python and React applications - not afraid to explore 
+I'm mostly interested in creating Python and React applications - not afraid to explore.
 
 ## My Values
 🧠 Thoughtful & Inclusive Development   
@@ -27,7 +27,7 @@ I'm mostly interested in creating Python and React applications - not afraid to 
 🔧 My portfolio is now built with Gatsby and Sanity. >> check out my new portfolio [here](https://aymanx.io/).    
 🔁 Exploring Docker
 
-
+Interested to learn more about Design Patterns 
 
 
 Check out my articles on [Medium](https://aymanx.medium.com/)  
