@@ -20,7 +20,7 @@ I'm mostly interested in creating Python and React applications - not afraid to 
 👨‍💻 I’m looking to collaborate on React, Python or any interesting projects   
 📚 Published two peer-reviewed articles on AI and Blockchain technology and cryptography  
 🐈  🐶  🐹  🐿  I love pets!   
-🙋‍♂️ Currently looking for a full-time job in London
+🙋‍♂️ Currently looking for a full-time job in London - please send me an email to tell you more about myself
 🌏 Brainstorming web application ideas for social good and sustainability 
 
 
