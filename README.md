@@ -20,11 +20,12 @@ I'm mostly interested in creating Python and React applications - not afraid to 
 👨‍💻 I’m looking to collaborate on React, Python or any interesting projects   
 📚 Published two peer-reviewed articles on AI and Blockchain technology and cryptography  
 🐈  🐶  🐹  🐿  I love pets!   
-🙋‍♂️ Currently looking for a full-time job in London - please send me an email to tell you more about myself
 🌏 Brainstorming web application ideas for social good and sustainability 
 
+🙋‍♂️ **Currently looking for a full-time job in London - please send me an email to tell you more about myself**
 
-🔧 My portfolio is now built with Gatsby and Sanity. >> check out my new portfolio [here](https://aymanx.io/).    
+
+🔧 My portfolio is now built with Gatsby and Sanity. >> check it out [here](https://aymanx.io/).    
 🔁 Exploring Docker
 
 Interested to learn more about Design Patterns 
