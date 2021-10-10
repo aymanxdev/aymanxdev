@@ -25,7 +25,7 @@ I'm mostly interested in creating Python and React applications - not afraid to 
 🙋‍♂️ **Currently looking for a full-time job in London - please send me an email to tell you more about myself**
 
 
-🔧 My portfolio is now built with Gatsby and Sanity. >> check it out [here](https://aymanx.io/).    
+🎳 Check out my portfolio [here](https://aymanx.io/).    
 🔁 Exploring Docker
 
 Interested to learn more about Design Patterns 
