@@ -1,5 +1,5 @@
 ### Hi there, I'm  [Ayman A.](https://aymanx.io/)  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-I'm a software engineer and recent M.S graduate. I'm currently looking to contribute my skills to a team where I can grow and build amazing projects.
+I'm a software engineer and recent master degree graduate. I'm currently looking to contribute my skills to a team where I can grow and build amazing projects.
 I'm mostly interested in creating Python and React applications - not afraid to explore.
 
 ## My Values
