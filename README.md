@@ -16,7 +16,6 @@ I'm mostly interested in creating Python and React applications - not afraid to 
 
 ## More about me
 
-🌱 I’m currently learning TypeScript and GraphQL.    
 👨‍💻 I’m looking to collaborate on React, Python or any interesting projects   
 📚 Published two peer-reviewed articles on AI and Blockchain technology and cryptography  
 🐈  🐶  🐹  🐿  I love pets!   
