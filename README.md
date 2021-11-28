@@ -9,16 +9,16 @@ I'm mostly interested in creating Python and React applications - not afraid to 
 🙌 Teamwork & Communication 
 
 ## Hobbies 
+📖 Reading & 🎵 Music 
 🏊‍♂️  Swimming & Gym  
-☕️ Coffee and Tea Enthusiast   
-📖 Reading & 🎵 Music      
+☕️ Coffee and Tea Enthusiast      
 ✈️ Love Travelling      
 
 ## More about me
 
 👨‍💻 I’m looking to collaborate on React, Python or any interesting projects   
 📚 Published two peer-reviewed articles on AI and Blockchain technology and cryptography  
-🐈  🐶  🐹  🐿  I love pets!   
+🐈  🐶   I love pets!   
 🌏 Brainstorming web application ideas for social good and sustainability 
 
 🙋‍♂️ **Currently looking for a full-time job in London, UK - Please visit my portfolio to get in touch**
