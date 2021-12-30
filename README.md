@@ -9,8 +9,8 @@ I'm mostly interested in creating Python and React applications - not afraid to 
 🙌 Teamwork & Communication 
 
 ## Hobbies 
-📖 Reading & 🎵 Music 
-🏊‍♂️  Swimming & Gym  
+📖 Reading & 🎵 Music  <br />
+🏊‍♂️ Swimming & Gym  
 ☕️ Coffee and Tea Enthusiast      
 ✈️ Love Travelling      
 
