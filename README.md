@@ -25,7 +25,6 @@ I'm mostly interested in creating Python and React applications - not afraid to 
 
 
 🎳 Check out my portfolio [here](https://aymanx.io/).    
-🔁 Exploring Docker 
 
 
 Check out my articles on [Medium](https://aymanx.medium.com/)  
