@@ -16,7 +16,7 @@ I'm mostly interested in creating React applications - not afraid to explore tho
 
 ## More about me
 
-👨‍💻 I’m looking to collaborate on React or any interesting projects with JavaScript or Python   
+👨‍💻 I’m looking to collaborate on React or any interesting projects in JavaScript or Python   
 📚 Published two peer-reviewed articles on AI and Blockchain technology and cryptography  
 🐈  🐶   I love pets!   
 🌏 Brainstorming web application ideas for social good and sustainability 
