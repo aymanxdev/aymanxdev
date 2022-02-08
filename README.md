@@ -21,8 +21,6 @@ I'm mostly interested in creating React applications - not afraid to explore tho
 🐈  🐶   I love pets!   
 🌏 Brainstorming web application ideas for social good and sustainability 
 
-🙋‍♂️ **Currently looking for a full-time job in London, UK 
-
 
 🎳 Check out my portfolio [here](https://aymanx.io/).    
 
