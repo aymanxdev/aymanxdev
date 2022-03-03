@@ -1,5 +1,5 @@
 ### Hi there, I'm  [Ayman A.](https://aymanx.io/)  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-I'm a software engineer and recent uni graduate. Looking to contribute to any cool open source projects.
+I'm a software engineer and currently working as a Frontend Engineer in London. Looking to contribute to any cool open source projects.
 I'm mostly interested in creating React applications - not afraid to explore though.
 
 ## My Values
