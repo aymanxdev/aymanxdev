@@ -1,6 +1,5 @@
 ### Hi there, I'm  [Ayman A.](https://aymanx.io/)  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-I'm a software engineer and currently working as a Frontend Engineer in London. Interested in contributing to any cool open source projects.
-I'm mostly interested in creating React applications.
+I'm currently working as a Frontend Engineer in London. Interested in contributing to any cool open source projects.
 
 ## My Values
 🧠 Thoughtful & Inclusive Development   
