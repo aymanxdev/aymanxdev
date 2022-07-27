@@ -15,12 +15,9 @@ Software engineer based in London. Interested in contributing to any cool open s
 
 ## More about me
  
-📚 Published two peer-reviewed articles on AI and Blockchain technology and cryptography  
+📚 Published two peer-reviewed articles on AI， Blockchain technology and cryptography  
 🐈  🐶   I love pets!   
-🌏 Brainstorming web application ideas for social good and sustainability 
-
-
-🎳 Check out my portfolio [here](https://aymanx.io/).    
+🌏 Brainstorming web application ideas for social good and sustainability   
 
 
 Check out my articles on [Medium](https://aymanx.medium.com/)  
