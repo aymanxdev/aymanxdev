@@ -22,10 +22,3 @@ Software engineer based in London. Interested in contributing to any cool open s
 
 Check out my articles on [Medium](https://aymanx.medium.com/)  
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://aymanx.medium.com/)   
-
-
-### Find me elsewhere 🌎 
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayman-io/)](https://www.linkedin.com/in/ayman-io/)  
-
-
