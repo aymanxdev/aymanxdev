@@ -9,7 +9,7 @@ Software engineer based in London. Interested in contributing to any cool open s
 
 ## Hobbies 
 📖 Reading & 🎵 Music  <br />
-💭 Walk & talk
+💭 Walk & talk   
 🏊‍♂️ Swimming  
 ☕️ Coffee and Tea Enthusiast      
 ✈️ Love Travelling      
